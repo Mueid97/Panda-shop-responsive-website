@@ -1,0 +1,45 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.slide-background{
+    background-color: #fceae8;
+}
+
+.btn-buy-now{
+    color: white;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 8px;
+    font-weight: 600;
+    border:none;
+    padding: 10px 20px;
+   
+}
+
+.catagories img{
+    width: 100px;   
+}
+
+.border-round {
+    border-radius: 15px;
+}
+
+.bagpack img{
+    width: 290px;
+}
+
+.card{
+    border-radius: 15px!important;
+}
+
+.bagpack-background {
+    background-color: #F4F4F4;
+}
+
+.org{
+    color: tomato;
+}
+
+.touch{
+    background-color: #fceae8;
+}
